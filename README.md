@@ -1,4 +1,8 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=devlukej&fontSize=90)
+
+# Github Statistics
+
+![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=devlukej&theme=neon&show_icons=true)
 
 <!--
 **devlukej/devlukej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
