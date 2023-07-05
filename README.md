@@ -22,6 +22,8 @@
   
 <h1>Github Statistics</h1>
   
-  ![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=devlukej&theme=graywhite&show_icons=true)
+  ![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=devlukej&theme=graywhite&show_icons=true&hide_border=true)
+  ![Luke](https://github-readme-stats.vercel.app/api/top-langs/?username=devlukej&layout=compact&theme=graywhite&hide_border=true)
+  
   
 </div>
